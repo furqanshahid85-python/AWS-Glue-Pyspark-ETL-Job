@@ -1,6 +1,6 @@
 # AWS-Glue-Pyspark-ETL-Job
 
-"""
+
 This module performs statistical analysis on the noval corona virus dataset. The implementation is specifically
 designed for AWS Glue environment. Can be used as a Glue Pyspark Job.
 The dataset being used was last updated on May 02, 2020. 
@@ -12,4 +12,4 @@ The Module performs the following Functions:
 * List max Recoveries for each country/region and provice/state
 * stores the aggregated output in parquet format
 *
-"""
+
